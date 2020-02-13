@@ -1,1 +1,1 @@
-# MLCheatsheet
+# Machine Learning Cheatsheet

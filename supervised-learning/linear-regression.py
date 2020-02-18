@@ -35,3 +35,5 @@ class LinearRegression:
         plt.ylabel("Response")
         # show plot 
         plt.show()
+    def predict(self, X, slope, intercept):
+        return slope*X + intercept 
